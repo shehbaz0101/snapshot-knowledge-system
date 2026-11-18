@@ -1,0 +1,14 @@
+# Supplied data: do not redistribute
+snapshots/0*/
+snapshots_zip/
+_kit_src/
+*.pdf
+# Local artifacts
+results/
+.cache/
+_codex/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv/
